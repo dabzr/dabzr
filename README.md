@@ -6,4 +6,4 @@ echo 👀 I’m interested in Linux, Programming, Backend, Infrastructure, DevOp
 
 echo 🌱 I’m currently learning Python, C, C++ and some other things.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dylanabzr)](https://github.com/dylanabzr/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dylanabzr)](https://github.com/anuraghazra/github-readme-stats)
