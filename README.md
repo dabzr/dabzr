@@ -1,4 +1,3 @@
-I’m dylan
 
 I’m interested in Linux, Programming, Backend and some other things
 
