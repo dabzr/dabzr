@@ -1,1 +1,1 @@
-
+```Um anticomputador sentimental.```
