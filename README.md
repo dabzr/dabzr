@@ -1,3 +1,3 @@
-```Computadores Fazem Arte. Artistas Fazem Dinheiro.```
+```computadores fazem arte, artistas fazem dinheiro.```
 
-[click here to acess my blog](https://dabzr.github.io)
+[blog](https://dabzr.github.io)
